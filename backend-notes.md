@@ -60,7 +60,21 @@ The [podcast](https://talkpython.fm/episodes/show/301/deploying-and-running-djan
 
 ### General notes to be refined after the fact
 
-Guests: [Will Vincent][[wsvincent.com](https://wsvincent.com/) and Carlton Gibson on Twitter (@caltongibson)
+Guests: [Will Vincent](https://wsvincent.com/) and Carlton Gibson on Twitter (@caltongibson)
+
+django frameworks last generally 3 years
+
+you should always try to stay up to date with Django, even if it temporarily breaks. If you cannot stay 100% up to date then you should always stay up to date on the LTS version.
+
+Non LTS version updates roughly once per eight months. While LTS version lasts about 3 years. 
+
+flask vs django - django is more feature rich and a bit more complicated framework. Flask is simpler to use but you will have to add micro-frameworks to get to the same level of features
+
+newer version of django will have more PK's so bigger sites won't have a problem running out
+
+
+
+
 
 
 

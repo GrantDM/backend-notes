@@ -68,9 +68,9 @@ you should always try to stay up to date with Django, even if it temporarily bre
 
 Non LTS version updates roughly once per eight months. While LTS version lasts about 3 years. 
 
-flask vs django - django is more feature rich and a bit more complicated framework. Flask is simpler to use but you will have to add micro-frameworks to get to the same level of features
+flask vs django - django is more feature rich and a bit more complicated framework. Flask is simpler to use but you will have to add micro-frameworks to get to the same level of features.
 
-newer version of django will have more PK's so bigger sites won't have a problem running out
+newer version of django will have more PK's so bigger sites won't have a problem running out.
 
 
 

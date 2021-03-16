@@ -25,11 +25,11 @@ in order to use the databases outside of the built in SQLite we will need to add
 
 ### Other Stuff
 
-Recommending learning some SQL to be able to right basic schemas and better understand what is happening behind th scenes with the ORM. learning tools such as [Select Star SQL][https://selectstarsql.com/] will help teach SQL and allow the developer to do more to better their product.
+Recommending learning some SQL to be able to right basic schemas and better understand what is happening behind th scenes with the ORM. learning tools such as [Select Star SQL](https://selectstarsql.com/) will help teach SQL and allow the developer to do more to better their product.
 
 With much much more to read up on and learn.
 
-This information came from the page [Full Stack Python][https://www.fullstackpython.com/databases.html] 
+This information came from the page [Full Stack Python](https://www.fullstackpython.com/databases.html) 
 
 
 
@@ -50,9 +50,17 @@ There are a few deployment tools, Teletraan. pants. Screwdriver
 
 ### Other Stuff
 
-There are a bunch of deployment resources at the bottom of this page that could come in handy later. [Full Stack Python Deployment][https://www.fullstackpython.com/deployment.html]
+There are a bunch of deployment resources at the bottom of this page that could come in handy later. [Full Stack Python Deployment](https://www.fullstackpython.com/deployment.html)
 
 
+
+## Django Podcast
+
+The [podcast](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
+
+### General notes to be refined after the fact
+
+Guests: [Will Vincent][[wsvincent.com](https://wsvincent.com/) and Carlton Gibson on Twitter (@caltongibson)
 
 
 
